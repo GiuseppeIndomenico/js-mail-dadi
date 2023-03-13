@@ -23,17 +23,17 @@ function checkMail(e) {
     e.preventDefault();
 
     let mail = document.getElementById('mail').value
-    let tutor = ''
+
 
     for (let i = 0; i < tutorMail.length; i++) {
 
         console.log(mail)
         console.log(tutorMail[i])
 
-        let tutor = tutorMail[i]
+
 
     }
-    if (tutor) {
+    if (mail) {
 
         check.innerHTML =
 
