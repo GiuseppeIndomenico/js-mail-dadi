@@ -44,7 +44,7 @@ function checkMail(e) {
     else {
         check.innerHTML=
 
-        `<h1 class="text-danger text-center">Chisei!? come sei arrivato su questa pagina!?</h1>`
+        `<h1 class="text-danger text-center">Chi sei!? E come sei arrivato su questa pagina!?</h1>`
         //  console.log('non verificato')
 
     }
