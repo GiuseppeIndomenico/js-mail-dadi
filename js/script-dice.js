@@ -20,12 +20,12 @@ function play() {
 
             <div class="col-6 text-center">
                 <h5>risultato giocatore</h5>
-                <h3> ${userResult} </h3>
+                <h3 class="fs-1 fw-bold"> ${userResult} </h3>
             </div>
             <div class="col-6 text-center">
                 <h5>risultato IA</h5>
 
-                <h3>  ${aiResult} </h3>
+                <h3 class="fs-1 fw-bold">  ${aiResult} </h3>
             </div>
         </div>
 
@@ -50,12 +50,12 @@ function play() {
 
             <div class="col-6 text-center">
                 <h5>risultato giocatore</h5>
-                <h3>  ${userResult}</h3>
+                <h3 class="fs-1 fw-bold">  ${userResult}</h3>
             </div>
             <div class="col-6 text-center">
                 <h5>risultato IA</h5>
 
-                <h3>  ${aiResult} </h3>
+                <h3 class="fs-1 fw-bold">  ${aiResult} </h3>
             </div>
         </div>
 
@@ -81,12 +81,12 @@ function play() {
     
                 <div class="col-6 text-center">
                     <h5>risultato giocatore</h5>
-                    <h3>  ${userResult}</h3>
+                    <h3 class="fs-1 fw-bold">  ${userResult}</h3>
                 </div>
                 <div class="col-6 text-center">
                     <h5>risultato IA</h5>
     
-                    <h3> ${aiResult} </h3>
+                    <h3 class="fs-1 fw-bold"> ${aiResult} </h3>
                 </div>
             </div>
     
