@@ -4,8 +4,13 @@ width: 1000px; height: 1000px;
 }
 
 
-.row{
+.gi-row{
 
     width:  500px;
     height:  500px;
+}
+
+.gi-card{
+    width: 400px;
+
 }
